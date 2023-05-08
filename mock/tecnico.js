@@ -7,7 +7,8 @@ const tecnico = [
         telefone:'19 3837-6300',
         email:'senaijaguariuna@sp.senai.br',
         modalidade:'Presencial',
-        valor:null
+        valor:null,
+        link:"https://jaguariuna.sp.senai.br/curso/99286/513/tecnico-em-eletronica"
     },
     {
         area:'TI - Software - Tecnologia da Inform - Software',
@@ -17,7 +18,8 @@ const tecnico = [
         telefone:'19 3837-6300',
         email:'senaijaguariuna@sp.senai.br',
         modalidade:'Presencial',
-        valor:null
+        valor:null,
+        link:"https://jaguariuna.sp.senai.br/curso/97012/513/tecnico-em-desenvolvimento-de-sistemas"
     }
 ]
 

@@ -8,6 +8,7 @@ const aprendizagem = [
         email:'senaijaguariuna@sp.senai.br',
         modalidade:'Presencial',
         valor:null,
+        link:"https://jaguariuna.sp.senai.br/curso/94691/513/eletricista-de-manutencao-eletroeletronica"
     },
     {
         area:'Metalmecânica - Mecânica',
@@ -17,7 +18,8 @@ const aprendizagem = [
         telefone:'19 3837-6300',
         email:'senaijaguariuna@sp.senai.br',
         modalidade:'Presencial',
-        valor:null
+        valor:null,
+        link:"https://jaguariuna.sp.senai.br/curso/82897/513/mecanico-de-bombas-motores-compressores-e-equipamentos-de-transmissao"
     },
    {
     area:'Metalmecânica - Mecânica',
@@ -27,7 +29,8 @@ const aprendizagem = [
     telefone:'19 3837-6300',
     email:'senaijaguariuna@sp.senai.br',
     modalidade:'Presencial',
-    valor:null
+    valor:null,
+    link:"https://jaguariuna.sp.senai.br/curso/76298/513/mecanico-de-usinagem"
    }
 ]
 

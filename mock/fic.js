@@ -7,7 +7,8 @@ const cursos = [
         telefone:'19 3837-6300',
         email:'senaijaguariuna@sp.senai.br',
         modalidade:'Ead',
-        valor:null
+        valor:null,
+        link:"https://jaguariuna.sp.senai.br/curso/98147/513/caracteristicas-tecnicas-de-motores-a-combustao-interna"
 
     },
     {
@@ -18,7 +19,8 @@ const cursos = [
         telefone:'19 3837-6300',
         email:'senaijaguariuna@sp.senai.br',
         modalidade:'Ead',
-        valor:null
+        valor:null,
+        link:"https://jaguariuna.sp.senai.br/curso/98148/513/metrologia-aplicada-a-motores-de-combustao-interna"
 
     },
     {
@@ -29,7 +31,8 @@ const cursos = [
         telefone:'19 3837-6300',
         email:'senaijaguariuna@sp.senai.br',
         modalidade:'Ead',
-        valor:null
+        valor:null,
+        link:"https://jaguariuna.sp.senai.br/curso/78396/513/competencia-transversal-nocoes-basicas-de-mecanica-automotiva"
     }
 ]
 
